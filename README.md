@@ -11,5 +11,5 @@ b) FIGURA DO DIAGRAMA DE CASOS DE USO
 
 c) IMAGEM DO PRÓTOTIPO DO SISTEMA
 
-<img src="/assets/imagem barbearia.jfif" width="400px" height="400px"/>
+<img src="/assets/imagem barbearia.jfif" width="400px" height="200px"/>
 
