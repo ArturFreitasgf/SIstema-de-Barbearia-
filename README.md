@@ -11,6 +11,5 @@ b)FIGURA DO DIAGRAMA DE CASOS DE USO
 
 c)IMAGEM DO PRÓTOTIPO DO SISTEMA
 
-![PRÓTOTIPO](![image](https://github.com/ArturFreitasgf/SIstema-de-Barbearia-/assets/130927000/a0966ec2-1d46-46f5-9ba1-702a152684cd)
-)
+<img src="/assets/imagem barbearia.jfif">
 
