@@ -7,7 +7,7 @@ a)DESCRIÇÃO TEXTUAL DO SISTEMA:
   
 b) FIGURA DO DIAGRAMA DE CASOS DE USO 
 
-![Diagrama de casos de uso](URL_da_Imagem)
+<img src="/assets/imagem barbearia.jfif" width="300px" height="500px"/>
 
 c) IMAGEM DO PRÓTOTIPO DO SISTEMA
 
