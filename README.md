@@ -7,7 +7,7 @@ a)DESCRIÇÃO TEXTUAL DO SISTEMA:
   
 b) FIGURA DO DIAGRAMA DE CASOS DE USO 
 
-<img src="/assets/Diagrama Barbearia (1).jpeg" width="500px" height="500px"/>
+<img src="/assets/Diagrama Barbearia (1).jpeg" width="500px" height="600px"/>
 
 c) IMAGEM DO PRÓTOTIPO DO SISTEMA
 
