@@ -13,4 +13,4 @@ c) IMAGEM DO PRÓTOTIPO DO SISTEMA
 
 <img src="/assets/imagem barbearia.jfif" width="400px" height="500px"/>
 
-<img src="/assets/imagem barbearia.jfif" width="400px" height="500px"/>
+<img src="/assets/9ca5bdbc-62bc-49bd-abdf-7f65a1216507.jfif" width="400px" height="500px"/>
